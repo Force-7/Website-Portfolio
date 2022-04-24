@@ -539,7 +539,7 @@ header button {
 /* Sekcja Slogan */
 .slogan {
     text-align: center;
-    background-image: url("/images/motto.jpg");
+    background-image: url("images/motto.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
